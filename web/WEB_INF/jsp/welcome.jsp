@@ -131,13 +131,13 @@
 			<a href="#"><button class="btn btn-block" data-toggle="modal" data-target=".bd-example-modal-lg" style="background:#29d846;color:#fff">Take me to seaworld</button></a>
 		</div>
 		<div class="col-md-4">
-			<img src="<c:url value="/awonders/images/disney1.jpg"/>" class="img-responsive gallery" style="min-height:275px">
+			<img src="<c:url value="/awonders/images/relax-view2.jpg"/>" class="img-responsive gallery" style="min-height:275px">
 			<h3 style="background:#eee;margin-top:0px;padding:10px;font-weight:900;margin-bottom:0px;padding-bottom:0px;border-top:2px solid #29d846;font-family:open"><strong></strong>Disney Land</h3>
 			<p  style="background:#eee;margin-top:0px;padding:10px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In bibendum, ipsum ac porttitor accumsan, felis orci iaculis nisl, vitae pretium velit nunc id elit. <a href="#">Read More..</a></p>
 			<a href="#"><button class="btn btn-block" style="background:#29d846;color:#fff">Take me to Disneyland</button></a>
 		</div>
 		<div class="col-md-4">
-			<img src="<c:url value="/awonders/images/universal.jpg" />" class="img-responsive" style="min-height:275px" >
+			<img src="<c:url value="/awonders/images/relax-view3.jpg" />" class="img-responsive" style="min-height:275px" >
 			<h3 style="background:#eee;margin-top:0px;padding:10px;font-weight:900;margin-bottom:0px;padding-bottom:0px;border-top:2px solid #29d846;font-family:open"><strong></strong>Universal</h3>
 			<p  style="background:#eee;margin-top:0px;padding:10px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In bibendum, ipsum ac porttitor accumsan, felis orci iaculis nisl, vitae pretium velit nunc id elit. <a href="#">Read More..</a></p>
 			<a href="#"><button class="btn btn-block" style="background:#29d846;color:#fff">Take me to Universal</button></a>
