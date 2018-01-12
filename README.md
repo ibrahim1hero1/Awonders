@@ -3,7 +3,7 @@
 https://awonders.herokuapp.com/welcome
 
 
-Awonders is a web application society to let members upload images of natures and wonderful images all over the world, Awonders will let all known ancient civilizations history, also Awanders will be mobile app to take photo easy and upload it to let others see the best all over the world
+Awonders is a web application society to let members upload images of natures and wonderful images all over the world, Awonders will let us known ancient civilizations history, also Awanders will be mobile app to take photo easy and upload it, to view the best all over the world
 
 
 # If you want to be sponser please contact with me :
